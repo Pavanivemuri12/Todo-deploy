@@ -3,6 +3,9 @@ Output:
   ![Screenshot 2024-11-27 011616](https://github.com/user-attachments/assets/66811210-0573-4d7a-b137-634eab5b941e)
 
 
+after using styling:
+
+![Screenshot 2024-11-27 223545](https://github.com/user-attachments/assets/1d069ec8-127c-4f34-bcd6-c593fcd9020c)
 
 
 
